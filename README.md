@@ -58,7 +58,7 @@ The binary `speed` will be produced.
 
 Additionally, there are various profiling code as follows (compile with `make XXX` where `XXX` is one of the following targets).
 - `ntrulpr761`
-    - `aarch64_gt_rader_bruun`, `aarch64_gt_schönhage`
+    - `aarch64_gt_rader_bruun`, `aarch64_gt`, `aarch64_gt_schönhage`
         - `speed_arith`
         - `speed_encode_decode`
         - `speed_hash`
@@ -66,7 +66,7 @@ Additionally, there are various profiling code as follows (compile with `make XX
         - `speed_rand`
         - `speed_sort`
 - `sntrup761`
-    - `aarch64_gt_rader_bruun`, `aarch64_gt_schönhage`
+    - `aarch64_gt_rader_bruun`, `aarch64_gt`, `aarch64_gt_schönhage`
         - `speed_arith`
         - `speed_encode_decode`
         - `speed_hash`

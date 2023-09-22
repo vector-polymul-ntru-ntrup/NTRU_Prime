@@ -18,6 +18,13 @@ do
 done
 cd ../
 
+cd aarch64_gt
+for i in "${LIST[@]}"
+do
+    rmln $i $SRC_PATH/$i
+done
+cd ../
+
 
 
 
