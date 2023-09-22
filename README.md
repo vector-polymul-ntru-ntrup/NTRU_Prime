@@ -1,7 +1,7 @@
 
 This repository accompanies with the paper **Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime**
 
-# Ovewview of This Artifact
+# Overview of This Artifact
 
 ## Raspberry pi 4
 - Cortex-A72.
