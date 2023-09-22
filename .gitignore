@@ -1,0 +1,9 @@
+
+**/.DS_Store
+
+**/test
+**/testvectors
+**/speed
+**/speed_rand
+**/speed_sort
+**/speed_hash
