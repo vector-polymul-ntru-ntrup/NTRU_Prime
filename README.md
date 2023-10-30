@@ -1,5 +1,5 @@
 
-This repository accompanies with the paper **Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime**
+This repository accompanies with the paper [**Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime**](https://eprint.iacr.org/2023/1580)
 
 # Overview of This Artifact
 
