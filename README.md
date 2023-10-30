@@ -39,6 +39,7 @@ This repository accompanies with the paper [**Algorithmic Views of Vectorized Po
 Go to the folders `{scheme}/{implementation}/` and type `make` where `{scheme}` is one of the following.
 - `ntrulpr761`
 - `sntrup761`
+
 The following binaries will be produced.
 - `test`
 - `testvectors`
