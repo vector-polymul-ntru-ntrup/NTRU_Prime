@@ -1,5 +1,7 @@
 
-This repository accompanies with the paper [**Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime**](https://eprint.iacr.org/2023/1580) to appeart at ACNS 2024.
+This repository accompanies with the paper **Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime** at
+[International Conference on Applied Cryptography and Network Security, Part II, 2024](https://link.springer.com/chapter/10.1007/978-3-031-54773-7_2).
+The paper is also available at [ePrint 2023/1580](https://eprint.iacr.org/2023/1580).
 
 # Overview of This Artifact
 
